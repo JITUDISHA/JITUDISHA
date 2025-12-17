@@ -35,7 +35,7 @@ I'm a **passionate developer and tech enthusiast** exploring innovative solution
     <img height="40px" src="https://res.cloudinary.com/dlrhikaak/image/upload/v1765853117/gmail-svgrepo-com_ojh0az.svg" alt="Gmail" />
   </a>
   <a href="https://x.com/SETHIjiNITR">
-    <img height="40px" src="[https://freepnglogo.com/images/all_img/1691832581twitter-x-icon-png.png](https://res.cloudinary.com/dlrhikaak/image/upload/v1765980974/x.logo_ghnxu2.webp)" alt="X" />
+    <img height="40px" src="https://res.cloudinary.com/dlrhikaak/image/upload/v1765980974/x.logo_ghnxu2.webp" alt="X" />
   </a>
   <a href="https://www.linkedin.com/in/disha-sethi-06b737315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img height="40px" src="https://res.cloudinary.com/dlrhikaak/image/upload/v1765852865/linkedin-svgrepo-com_cy5lsu.svg" alt="LINKEDIN" />
