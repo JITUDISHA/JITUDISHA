@@ -104,25 +104,6 @@ I'm a **passionate developer and tech enthusiast** exploring innovative solution
 ![Pip](https://img.shields.io/badge/Pip-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  
-![Disha's GitHub stats](https://github-readme-stats.vercel.app/api?username=JITUDISHA&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-</div>
-
----
-
-## 🎯 Top Languages
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JITUDISHA&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
 ---
 
 
