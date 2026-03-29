@@ -115,6 +115,7 @@ I'm a **passionate developer and tech enthusiast** exploring innovative solution
 - 📊 Exploring data science and analytics
 - 🤝 Contributing to open-source projects
 - 🎓 Learning advanced backend optimization
+- AI/ML 
 
 
 ---
